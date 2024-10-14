@@ -10,5 +10,5 @@ I think of myself as a highly creative and highly flexible scientist and am perh
 
 Many of the scientific stories I find most interesting involve collective dynamics, critical phenomena, decision theory, computation, entropy, information theory, nonlinear physics, and physics far from equilibrium.
 
-The best way to reach me is via email at [emre.alca@icloud.com](mailto:emre.alca@icloud.com).
+The best way to reach me is via email at emre.alca[at]icloud.com.
 Feel free to take a look at my [[cv_5.pdf|CV]] or my [LinkedIn](https://www.linkedin.com/in/emre-alca-13397314a/).
