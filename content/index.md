@@ -4,7 +4,7 @@ title: Emre Alca
 
 Hello! I'm Emre! Currently I'm an associate of Systems Biology at Harvard Medical School. I work with [Jeremy Gunawardena](https://vcp.med.harvard.edu/index.html) studying information processing in the genetic regulatory network.
 
-![emre.png](emre.png)
+![emre.png](emrealca.png)
 
 I think of myself as a highly creative and highly flexible scientist and am perhaps best described by my tendency to be attracted to problems which lie at the intersections of many fields. My formal training (HBSc, University of Toronto) is in physics with a special interest in nonlinear dynamics, and cognitive science which is more broadly inter- and trans-disciplinary. I have previously worked in labs developing automated discovery systems (machine learning) and experimental robotic methods in materials science and drug dicovery, with Prof. Alan Aspuru-Guzik, University of Toronto, molecular computing, with Prof. Erik Winfree, Caltech.
 
