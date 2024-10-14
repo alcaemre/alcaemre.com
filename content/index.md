@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Emre Alca
 ---
 
 Hello! I'm Emre! Currently I'm an associate of Systems Biology at Harvard Medical School. I work with [Jeremy Gunawardena](https://vcp.med.harvard.edu/index.html) studying information processing in the genetic regulatory network.
